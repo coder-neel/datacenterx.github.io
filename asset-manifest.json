@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/coder-neel/datacenterx.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/coder-neel/datacenterx.github.io/static/js/main.6560a325.js",
-    "static/js/787.eabba113.chunk.js": "/coder-neel/datacenterx.github.io/static/js/787.eabba113.chunk.js",
-    "index.html": "/coder-neel/datacenterx.github.io/index.html",
-    "main.073c9b0a.css.map": "/coder-neel/datacenterx.github.io/static/css/main.073c9b0a.css.map",
-    "main.6560a325.js.map": "/coder-neel/datacenterx.github.io/static/js/main.6560a325.js.map",
-    "787.eabba113.chunk.js.map": "/coder-neel/datacenterx.github.io/static/js/787.eabba113.chunk.js.map"
+    "main.css": "./static/css/main.073c9b0a.css",
+    "main.js": "./static/js/main.a5fd2cd2.js",
+    "static/js/787.eabba113.chunk.js": "./static/js/787.eabba113.chunk.js",
+    "index.html": "./index.html",
+    "main.073c9b0a.css.map": "./static/css/main.073c9b0a.css.map",
+    "main.a5fd2cd2.js.map": "./static/js/main.a5fd2cd2.js.map",
+    "787.eabba113.chunk.js.map": "./static/js/787.eabba113.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.6560a325.js"
+    "static/js/main.a5fd2cd2.js"
   ]
 }
