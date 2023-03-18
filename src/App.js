@@ -9,6 +9,7 @@ function App() {
   const Navbar = () => {
     return (
       <div>
+        <h1>Hello Neel</h1>
         <Link to="/">Home</Link>
         <Link to="/about">About</Link>
         <Link to="/careers">Careers</Link>
